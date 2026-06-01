@@ -42,12 +42,12 @@ A futuristic Pong game built with Python and Pygame.
 
 ## Gameplay
 
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshot2.png)
 
 ## Start Screen
 
-![Start Screen](screenshots/start_screen.png)
+![Start Screen](screenshot3.png)
 
 ## Winner Screen
 
-![Winner Screen](screenshots/winner.png)
+![Winner Screen](screenshot4.png)
